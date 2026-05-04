@@ -4,7 +4,8 @@ I am a **Backend Developer** focused on the **macOS ecosystem**, currently worki
 
 
 ### 💻 Technical Stack
-*   **Backend:** Python, TypeScript
+*   **Backend:** Python, TypeScript,Node js
+*   **Frameworks** FastAPI,Django,
 *   **Frontend:** Vue.js, React, Nuxt.js
 *   **Environment:** macOS, Bash, Vercel
 

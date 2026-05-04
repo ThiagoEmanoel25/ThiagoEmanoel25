@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Thiago Emanoel! 👋
 
-<!--
-**ThiagoEmanoel25/ThiagoEmanoel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Backend Developer** focused on the **macOS ecosystem**, currently working my way toward Senior Engineering roles. I'm passionate about building secure, scalable systems and exploring the intersection of AI and Web3.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Stack
+*   **Backend:** Python, TypeScript
+*   **Frontend:** Vue.js, React, Nuxt.js
+*   **Environment:** macOS, Bash, Vercel
+
+### 🎯 Interests & Focus
+*   **Network Defense:** Log monitoring (SIEM), auth analysis, and proactive security.
+*   **Web3:** Decentralized applications and blockchain integration.
+*   **Artificial Intelligence:** Implementing autonomous agents and LLM tools.
+
+### 📫 Connect with me:
+*   **LinkedIn:** https://www.linkedin.com/in/thiago-emanoel-9248bb2b6/
+*   **Portfolio:** [Link your site]
+
+---
+*"Stay hard."*

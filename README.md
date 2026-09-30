@@ -1,22 +1,15 @@
 # Hi there, I'm Thiago Emanoel! 👋
 
-I am a **Backend Developer** focused on the **macOS ecosystem**, currently working my way toward Senior Engineering roles. I'm passionate about building secure, scalable systems and exploring the intersection of AI and Web3.
+Full Stack AI Engineer — Node.js/TypeScript, Python (FastAPI), and LLM agents (LangChain, LangGraph, RAG). Claude Code is part of my daily workflow, not an experiment.
 
+I build on top of LLMs instead of researching them: production APIs with real auth/security hardening, and agents that ship, not demos.
 
-### 💻 Technical Stack
-*   **Backend:** Python, TypeScript,Node js
-*   **Frameworks** FastAPI,Django,
-*   **Frontend:** Vue.js, React, Nuxt.js
-*   **Environment:** macOS, Bash, Vercel
+- 🤖 [DXGen](#) — RAG pipeline + multi-step agent that reads a repo and writes its documentation, triggered on every Pull Request
+- 🧳 [Travel Wise](#) — AI trip planner, Gemini API integration with prompt caching and structured output
+- 🎯 [CareerSync](#) — resume parsing + interview prep, OpenAI API, built with a team of 4 at a hackathon
 
-### 🎯 Interests & Focus
-*   **Network Defense:** Log monitoring (SIEM), auth analysis, and proactive security.
-*   **Web3:** Decentralized applications and blockchain integration.
-*   **Artificial Intelligence:** Implementing autonomous agents and LLM tools.
+Currently finishing my B.Sc. in Computer Science (Dec 2026). Based in Salvador, Brazil, remote-first (UTC-3).
 
-### 📫 Connect with me:
-*   **LinkedIn:** https://www.linkedin.com/in/thiago-emanoel-9248bb2b6/
-*   **Portfolio:** [Link your site]
 
 ---
 *"Stay hard."*
